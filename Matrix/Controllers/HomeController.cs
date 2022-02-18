@@ -23,7 +23,17 @@ namespace Matrix.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult CoalCapex()
+        {
+            return View();
+        }
+
+        public IActionResult About()
+        {
+            return View();
+        }
+
+        public IActionResult Table ()
         {
             return View();
         }

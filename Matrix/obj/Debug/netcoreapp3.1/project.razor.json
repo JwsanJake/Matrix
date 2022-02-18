@@ -14407,18 +14407,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\RealZ\\source\\repos\\Matrix\\Matrix\\Views\\Home\\HumanResources.cshtml",
+      "TargetPath": "Views\\Home\\HumanResources.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\RealZ\\source\\repos\\Matrix\\Matrix\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\RealZ\\source\\repos\\Matrix\\Matrix\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\RealZ\\source\\repos\\Matrix\\Matrix\\Views\\Home\\Table.cshtml",
+      "TargetPath": "Views\\Home\\Table.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "c:\\Users\\RealZ\\source\\repos\\Matrix\\Matrix\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\RealZ\\source\\repos\\Matrix\\Matrix\\Views\\Home\\CoalCapex.cshtml",
+      "TargetPath": "Views\\Home\\CoalCapex.cshtml",
       "FileKind": "mvc"
     },
     {

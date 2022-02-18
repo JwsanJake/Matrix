@@ -61,7 +61,6 @@ C:\Users\RealZ\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.TagHelp
 C:\Users\RealZ\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.TagHelpers.output.cache
 C:\Users\RealZ\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.RazorCoreGenerate.cache
 C:\Users\RealZ\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\RealZ\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\RealZ\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\RealZ\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\RealZ\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -74,3 +73,7 @@ C:\Users\RealZ\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.csproj.
 C:\Users\RealZ\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.dll
 C:\Users\RealZ\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.pdb
 C:\Users\RealZ\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.genruntimeconfig.cache
+C:\Users\RealZ\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.csprojAssemblyReference.cache
+C:\Users\RealZ\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Razor\Views\Home\CoalCapex.cshtml.g.cs
+C:\Users\RealZ\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Razor\Views\Home\HumanResources.cshtml.g.cs
+C:\Users\RealZ\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Razor\Views\Home\Table.cshtml.g.cs

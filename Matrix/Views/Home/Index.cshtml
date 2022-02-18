@@ -2,7 +2,37 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+
+<div style="display: flex;">
+    <div class="card" style="margin-right: 10px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Arcelor_Mittal.svg/1200px-Arcelor_Mittal.svg.png" alt="Avatar" style="width:100%;">
+        <div class="container">
+            <hr />
+            <h4><b>Coal capex Matrix</b></h4>
+            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="CoalCapex">Перейти</a>
+        </div>
+    </div>
+    <div class="card" style="margin-right: 10px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Arcelor_Mittal.svg/1200px-Arcelor_Mittal.svg.png" alt="Avatar" style="width:100%;">
+        <div class="container">
+            <h4><b>Human Resources Authority Matrix</b></h4>
+            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="HumanResources" disabled>Blocked</a>
+        </div>
+    </div>
+    <div class="card" style="margin-right: 10px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Arcelor_Mittal.svg/1200px-Arcelor_Mittal.svg.png" alt="Avatar" style="width:100%;">
+        <div class="container">
+            <h4><b>Operations Reviewed Matrix</b></h4>
+            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Operations" disabled>Blocked</a>
+        </div>
+    </div>
+    <div class="card" style="margin-right: 10px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Arcelor_Mittal.svg/1200px-Arcelor_Mittal.svg.png" alt="Avatar" style="width:100%;">
+        <div class="container">
+            <h4><b>Authorization Matrix</b></h4>
+            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Authorization" disabled>Blocked</a>
+        </div>
+    </div>
 </div>
+    
